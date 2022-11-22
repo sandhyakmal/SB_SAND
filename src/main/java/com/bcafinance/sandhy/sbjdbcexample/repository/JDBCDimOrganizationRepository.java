@@ -1,6 +1,6 @@
-package edu.sandhy.sbjdbcexample.repository;
+package com.bcafinance.sandhy.sbjdbcexample.repository;
 
-import edu.sandhy.sbjdbcexample.model.DimOrganization;
+import com.bcafinance.sandhy.sbjdbcexample.model.DimOrganization;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

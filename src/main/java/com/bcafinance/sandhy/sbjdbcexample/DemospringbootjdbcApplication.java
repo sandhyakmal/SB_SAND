@@ -1,4 +1,4 @@
-package edu.sandhy.sbjdbcexample;
+package com.bcafinance.sandhy.sbjdbcexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

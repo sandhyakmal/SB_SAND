@@ -1,4 +1,4 @@
-package edu.sandhy.sbjdbcexample;
+package com.bcafinance.sandhy.sbjdbcexample;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

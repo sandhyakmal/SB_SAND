@@ -1,4 +1,4 @@
-package edu.sandhy.sbjdbcexample.controller;
+package com.bcafinance.sandhy.sbjdbcexample.controller;
 /*
 @Author Andara a.k.a. Sandhy
 Junior Programmer
@@ -8,8 +8,8 @@ Last Modified on 11/22/2022 1:52 PM
 Version 1.0
 */
 
-import edu.sandhy.sbjdbcexample.model.DimOrganization;
-import edu.sandhy.sbjdbcexample.repository.DimOrganizationRepository;
+import com.bcafinance.sandhy.sbjdbcexample.model.DimOrganization;
+import com.bcafinance.sandhy.sbjdbcexample.repository.DimOrganizationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

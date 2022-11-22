@@ -1,4 +1,4 @@
-package com.bcafinance.sandhy.sbjdbcexample.model;
+package edu.sandhy.sbjdbcexample.model;
 /*
 @Author Andara a.k.a. Sandhy
 Junior Programmer

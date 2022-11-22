@@ -1,6 +1,6 @@
-package com.bcafinance.sandhy.sbjdbcexample.repository;
+package edu.sandhy.sbjdbcexample.repository;
 
-import com.bcafinance.sandhy.sbjdbcexample.model.DimOrganization;
+import edu.sandhy.sbjdbcexample.model.DimOrganization;
 
 import java.util.List;
 
